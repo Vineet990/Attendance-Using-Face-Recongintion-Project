@@ -5,3 +5,4 @@
 # API MODEL  : speciallized models for calls
 
 from .controller import *
+from .api_model import *

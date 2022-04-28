@@ -10,10 +10,10 @@ import os
 import mysql.connector
 
 mydb = mysql.connector.connect(
-  host="localhost",
+  host="115.124.120.251",
   user="root",
-  password="mynewpass",
-  database = "attendance_project"
+  password="#&71caNbosOM7N",
+  database = "TAPTesting"
 )
 
 
