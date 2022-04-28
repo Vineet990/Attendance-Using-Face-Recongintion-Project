@@ -18,18 +18,15 @@
 * gTTS
 * pygame
 
+### Database
+* MySQL
+* Using Mysql Connector
+
 ## How to run
 * Store all images **with one face** in 'people' directory. *Some images are avaibable*
 * Run enode_faces.py
 * Run attendence_project.py
 * Edit define_constants.py file **if required**
 
-### Output
-##### First attendence
-![Elon Musk](/README_media/Screenshot_elon_musk.png "Elon Musk")
-
-##### Second Attendence
-![David Gilmour](/README_media/Screenshot_david_gilmour.png "David Gilmour")
-
-##### .csv file can be viewed in spreadsheets
-![Spreadsheet](/README_media/Screenshot_spreadsheet.png "Spreadsheet")
+#### UseCase
+* Schools and other institutions can use it to take attendance of their students and other employeees
