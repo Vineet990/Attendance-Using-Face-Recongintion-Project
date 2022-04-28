@@ -10,8 +10,6 @@
 * scipy
 
 ### Packages for Face Recognition and Eye Blink Detection
-* cmake
-* dlib
 * face_recognition
 
 ### Packages for Text to Speech
