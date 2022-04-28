@@ -7,4 +7,10 @@
 ## Database Used
 * MySQL
 
+## Python Libraries Used
+* Flask
+* Flask SQlAlchemy
+* Flask_restful
+
+
 ### By - Ayush Singh
