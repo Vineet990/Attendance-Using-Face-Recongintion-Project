@@ -4,4 +4,7 @@
 * Get By Name
 * Get By Date
 
-# Ayush Singh
+## Database Used
+* MySQL
+
+### By - Ayush Singh
