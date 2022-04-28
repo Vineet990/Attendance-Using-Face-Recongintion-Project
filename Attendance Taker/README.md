@@ -23,7 +23,7 @@
 * Using Mysql Connector
 
 ## How to run
-* Store all images **with one face** in 'people' directory. *Some images are avaibable*
+* Store all images **with one face** in 'people' directory.
 * Run enode_faces.py
 * Run attendence_project.py
 * Edit define_constants.py file **if required**
